@@ -25,7 +25,7 @@
 
 
 ## 🔗 Frontend Link <a name="documentation"></a>
-  > _My [Hello-React-Frontend](https://github.com/kessie2862/Hello-Rails-Frontend) code is built using React and Redux and is hosted on a separate repository. The front end handles the user interface and integrates with my backend API to retrieve and display data. To access our backend code, please click [here](https://github.com/kessie2862/Hello-Rails-Frontend)._
+  > _My [Hello-React-Frontend](https://github.com/kessie2862/Hello-React-Frontend) code is built using React and Redux and is hosted on a separate repository. The front end handles the user interface and integrates with my backend API to retrieve and display data. To access our backend code, please click [here](https://github.com/kessie2862/Hello-React-Frontend)._
 
 
 ## 🛠 Built With <a name="built-with"></a>
